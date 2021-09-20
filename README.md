@@ -1,10 +1,10 @@
 # Getting Started with Coin Market News
 
-This project is live at: [Coin Market News](https://coin-market-news.netlify.app/).
-I made this website following a tutorial located here: (https://www.youtube.com/watch?v=9DDX3US3kss&t=1s)
-I was able to learn more about React, Redux toolkit, RapidAPI, AntDesign and much more
-Check out a few links:
-[Rapid API](https://rapidapi.com/hub)
+This project is live at: [Coin Market News](https://coin-market-news.netlify.app/).\
+I made this website following a tutorial located here: (https://www.youtube.com/watch?v=9DDX3US3kss&t=1s)\
+I was able to learn more about React, Redux toolkit, RapidAPI, AntDesign and much more.\
+Check out a few links:\
+[Rapid API](https://rapidapi.com/hub)\
 [Ant Design](https://ant.design/components/overview/)
 
 
