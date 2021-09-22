@@ -1,3 +1,8 @@
+
+
+https://user-images.githubusercontent.com/6372920/134289717-db5080e7-2909-4712-b31f-804cd4cc3389.mov
+
+
 # Getting Started with Coin Market News
 
 This project is live at: [Coin Market News](https://coin-market-news.netlify.app/).\
